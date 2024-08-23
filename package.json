@@ -1,6 +1,6 @@
 {
   "name": "spdx-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Typing for SPDX JSON",
   "types": "dist/index.d.ts",
   "scripts": {
