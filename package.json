@@ -9,6 +9,10 @@
   "keywords": [
     "spdx"
   ],
+  "files": [
+      "dist",
+      "readme.md"
+  ],
   "author": "Clayton Castro",
   "license": "ISC",
   "devDependencies": {
